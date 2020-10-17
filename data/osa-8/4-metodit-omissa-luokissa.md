@@ -75,7 +75,7 @@ print(pekan_tili.saldo)
 
 </sample-output>
 
-Metodi `lisaa_korko` siis kertoo olion saldon vuorikorkoprosentilla ja lisää tuloksen nykyiseen saldoon. Metodin toiminta siis kohdistuu siihen olioon, jonka kautta sitä kutsutaan.
+Metodi `lisaa_korko` siis kertoo olion saldon vuosikorkoprosentilla ja lisää tuloksen nykyiseen saldoon. Metodin toiminta siis kohdistuu siihen olioon, jonka kautta sitä kutsutaan.
 
 Katsotaan vielä toinen esimerkki, jossa luokasta on muodostettu useampi olio:
 
@@ -357,7 +357,7 @@ Piia
 
 </sample-output>
 
-Esimerkistä huomataan, että myös olion omiin metodeihin pitää viitata `self`-määreen avulla kun niitä kutsutaan konstruktorista. Luokkiin voidaan kirjoitaa myös ns. _staattisia metodeita_, eli metodeita, jota voidaan kutsua ilman että luokasta muodostetaan oliota. Tähän palataan kuitenkin tarkemmin ensi kerralla.
+Esimerkistä huomataan, että myös olion omiin metodeihin pitää viitata `self`-määreen avulla kun niitä kutsutaan konstruktorista. Luokkiin voidaan kirjoitaa myös ns. _staattisia metodeita_, eli metodeita, joita voidaan kutsua ilman että luokasta muodostetaan oliota. Tähän palataan kuitenkin tarkemmin ensi kerralla.
 
 **TODO** arvon palauttava metodi
 
@@ -423,7 +423,7 @@ print("Keskiarvo:", tilasto.keskiarvo())
 
 <sample-output>
 
-Määrä: 4
+Lukujen määrä: 4
 Summa: 11
 Keskiarvo: 2.75
 
