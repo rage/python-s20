@@ -30,7 +30,7 @@ class Suorakulmio:
         self.leveys = leveys
         self.korkeus = korkeus
 
-    # Metodi palauttaa neliö pinta-alan
+    # Metodi palauttaa neliön pinta-alan
     def pinta_ala(self):
         return self.leveys * self.korkeus
 
