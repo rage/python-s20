@@ -107,7 +107,7 @@ Pirjo Pythonen
 
 <text-box variant="info" name="Attribuuttien näkyvyys">
 
-Attribuutit ovat käytettävissä ainoastaan se olion sisällä, jossa ne on määritelty. Niitä ei voi siis käyttää olion ulkopuolelta.
+Attribuutit ovat käytettävissä ainoastaan sen olion sisällä, jossa ne on määritelty. Niitä ei voi siis käyttää olion ulkopuolelta.
 
 </text-box>
 
@@ -373,7 +373,7 @@ print(pekan_tili.saldo)
 
 <programming-exercise name='Vanhempi kirja' tmcname='osa08-02_vanhempi_kirja'>
 
-Tee funktio `vanhempi(kirja1: Kirja, kirja2: Kirja)`, joka saa parametriksi kaksi `Kirja`-olioa. Funktio kertoo kumpi kirjoista on vahnmpi.
+Tee funktio `vanhempi(kirja1: Kirja, kirja2: Kirja)`, joka saa parametriksi kaksi `Kirja`-olioa. Funktio kertoo kumpi kirjoista on vanhempi.
 
 Funktiota käytetään seuraavasti
 
@@ -397,7 +397,7 @@ Fluent Python ja Norma kirjoitettiin 2015
 
 <programming-exercise name='Genren kirjat' tmcname='osa08-03_genren_kirjat'>
 
-Tee funktio `genren_kirjat(kirjat: list, genre: str)`, joka saa parametriksi listan `Kirja`-olioa, sekä genren kertovan merkkijonon.
+Tee funktio `genren_kirjat(kirjat: list, genre: str)`, joka saa parametriksi listan `Kirja`-olioita, sekä genren kertovan merkkijonon.
 
 Funktio _palauttaa_ uuden listan, jolle se laittaa parametrina olevista kirjoista ne, joilla on haluttu genre:
 
