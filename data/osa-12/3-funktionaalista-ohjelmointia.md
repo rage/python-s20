@@ -267,7 +267,7 @@ s2 = Suoritus("Olivia Ohjelmoija", "Ohjelmoinnin perusteet", 5)
 s3 = Suoritus("Pekka Python", "Ohjelmoinnin jatkokurssi", 0)
 
 for suoritus in hyvaksytyt([s1, s2, s3]):
-    print(suoritus.nimi)
+    print(suoritus.opiskelijan_nimi)
 ```
 
 <sample-output>
