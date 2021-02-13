@@ -4,6 +4,10 @@ title: "Verkkotentti 13.2"
 information_page: true
 ---
 
+<h2>
+<notice>Tentti siirretty 20.2 teknisten ongelmien vuoksi</notice>
+</h2>
+
 ### Tenttiin osallistuminen
 
 * Tenttiin ei tarvitse ilmoittautua etukäteen.

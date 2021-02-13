@@ -17,7 +17,8 @@ Kurssit suoritetaan ratkomalla tehtäviä ja osallistumalla lopuksi kokeeseen.
 ### Ohjelmoinnin jatkokurssi koepäivät
 
 * 17.12.2020
-* 13.2.2021
+* ~~13.2.2021~~ (Peruttu)
+* 20.2.2021
 * 20.3.2021
 
 ## Tenttiin osallistuminen
