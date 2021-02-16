@@ -4,10 +4,10 @@ const courseSettings = {
   siteUrl: "https://python-s20.mooc.fi",
   githubUrl: "https://github.com/rage/python-s20",
   subtitle: "Johdatus ohjelmointiin Python-kielellä",
-  slug: "python-s20",
-  tmcCourse: "python-s20",
+  slug: "python-2021",
+  tmcCourse: "python-2021",
   quizzesId: "a8c6418a-98e4-4732-b09f-bd866da480d4",
-  tmcOrganization: "hy",
+  tmcOrganization: "kasis",
   bannerPath: "banner.svg",
   showExerciseDescriptionWhenNotLoggedIn: true,
 }
